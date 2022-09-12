@@ -7,6 +7,9 @@ public class Apple {
         food fo =  new food();
 
         bucky.digest(fo);
+        {
+            System.out.println("Hello World");
+        }
 
     }
 
